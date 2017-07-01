@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "E:\\AndroidStudioProjects\\YuJun\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_notifications.png",
+        "source": "E:\\AndroidStudioProjects\\YuJun\\jutils\\build\\intermediates\\bundles\\default\\res\\drawable-ldpi-v4\\ic_notifications.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\YuJun\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_success.png",
+        "source": "E:\\AndroidStudioProjects\\YuJun\\jutils\\build\\intermediates\\bundles\\default\\res\\drawable-ldpi-v4\\ic_success.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\YuJun\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\alerter_ic_face.png",
+        "source": "E:\\AndroidStudioProjects\\YuJun\\jutils\\build\\intermediates\\bundles\\default\\res\\drawable-ldpi-v4\\alerter_ic_face.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\YuJun\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\alerter_ic_notifications.png",
+        "source": "E:\\AndroidStudioProjects\\YuJun\\jutils\\build\\intermediates\\bundles\\default\\res\\drawable-ldpi-v4\\alerter_ic_notifications.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\YuJun\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_error.png",
+        "source": "E:\\AndroidStudioProjects\\YuJun\\jutils\\build\\intermediates\\bundles\\default\\res\\drawable-ldpi-v4\\ic_error.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\YuJun\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_face.png",
+        "source": "E:\\AndroidStudioProjects\\YuJun\\jutils\\build\\intermediates\\bundles\\default\\res\\drawable-ldpi-v4\\ic_face.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\YuJun\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_warning.png",
+        "source": "E:\\AndroidStudioProjects\\YuJun\\jutils\\build\\intermediates\\bundles\\default\\res\\drawable-ldpi-v4\\ic_warning.png"
+    }
+]

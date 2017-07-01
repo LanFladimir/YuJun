@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">与君</string>
+
+    <!--splash-->
+    <string name="splash_lovers">情侣间，相互鼓励相互督促，</string>
+    <string name="splash_lovers_s">We\nCan\nBe\nBetter!</string>
+    <string name="splash_friends">知己间,发布自己的任务，完成自己的工作\nI Can Do It!</string>
+</resources>
